@@ -1,3 +1,4 @@
+```
 from GitHub import Readme
 
 class Void(Readme):
@@ -8,3 +9,4 @@ class Void(Readme):
       self.age = 17
       self.discord = "os.void1337"
       self.location = "Internet"
+```
